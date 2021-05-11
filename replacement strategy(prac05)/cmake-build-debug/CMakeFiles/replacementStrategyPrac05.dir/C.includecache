@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a606/CLionProjects/replacement strategy/replacement strategy(prac05)/bufpool.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+bufpool.h
+/Users/a606/CLionProjects/replacement strategy/replacement strategy(prac05)/bufpool.h
+
+/Users/a606/CLionProjects/replacement strategy/replacement strategy(prac05)/bufpool.h
+
