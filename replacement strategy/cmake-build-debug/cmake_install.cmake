@@ -1,4 +1,4 @@
-# Install script for directory: /Users/a606/CLionProjects/unsw/comp9315/Exercise/replacement-strategy/replacement strategy(lxc)
+# Install script for directory: /Users/a606/CLionProjects/unsw/comp9315/Exercise/replacement-strategy/replacement strategy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
